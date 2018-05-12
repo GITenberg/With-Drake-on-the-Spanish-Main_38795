@@ -23,6 +23,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/39124
     - http://en.wikipedia.org/wiki/Herbert_Strang
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38795#With-Drake-on-the-Spanish-Main
 gutenberg_issued: '2012-02-18'
 gutenberg_type: Text
 identifiers:
